@@ -1,0 +1,4 @@
+pyserial
+cbor2
+protobuf
+tabulate
